@@ -1,5 +1,7 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
 
-Hi there! If you're here you're probably looking for some more information about me. You can see some blog posts below, or see them on the Categories page.
+Hi there, I'm Lucy Jefford and this is my blog!
+
+Follow the links below to read more about me, and some of the work I've gotten up to. :)
