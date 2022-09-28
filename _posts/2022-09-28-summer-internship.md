@@ -1,6 +1,6 @@
 ---
 #layout: post
-title: "THG | My Summer Internship"
+title: "THG | My Summer Internship 👩🏻‍💻"
 date: 2022-09-28
 categories: [Experience]
 url: https://lucyjefford.github.io/my-blog/summer-internship/
