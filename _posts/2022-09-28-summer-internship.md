@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: "THG | My Summer Internship"
 date: 2022-09-28
 categories: [Experience]
