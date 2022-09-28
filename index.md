@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-This page is here to be the homepage
+Hi there! If you're here you're probably looking for some more information about me.
