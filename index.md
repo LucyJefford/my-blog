@@ -1,5 +1,8 @@
 ---
-title: Welcome to my blog
+title: Home
+list-title: My Posts
 ---
 
-This page is here to be the homepage
+Hi there, I'm Lucy Jefford and this is my blog!
+
+Follow the links below to read more about me, and some of the work I've gotten up to. 😊
