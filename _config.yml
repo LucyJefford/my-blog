@@ -1,7 +1,9 @@
 theme: minima
 title: Lucy's Blog
 url: "https://lucyjefford.github.io/my-blog/"
-author: Lucy Jefford
+author: 
+  name: Lucy Jefford"
+  email: "lucyj@hotmail.co.uk"
 
 # Site settings
 baseurl: / # Change this to your relative path (ex: /blog), or leave just a /
