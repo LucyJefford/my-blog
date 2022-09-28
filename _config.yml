@@ -1,12 +1,36 @@
 theme: minima
 title: Lucy's Blog
-author: Lucy Jefford
+url: "https://lucyjefford.github.io/my-blog/"
+author:
+  name: Lucy Jefford
+  email: lucyj@hotmail.co.uk
+
 # Site settings
-permalink: /:title/
+baseurl: / # Change this to your relative path (ex: /blog), or leave just a /
 markdown: kramdown
-paginate: 5
-paginate_path: "/:num/"
+source: .
+destination: ./_site
+paginate: 8
+paginate_path: /page:num/
+permalink: /:title/
 date_format: "%b %-d, %Y"
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
 
 plugins:
   - jekyll-feed

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Introduction"
 date: 2022-09-28
 categories: [About Me]
