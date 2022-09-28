@@ -1,5 +1,6 @@
 ---
 title: Home
+list-title: My Posts
 ---
 
 Hi there, I'm Lucy Jefford and this is my blog!
