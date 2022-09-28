@@ -22,6 +22,6 @@ plugins:
   - jekyll-feed
 
 # Options
-custom_header: false
-custom_nav_footer: false
+custom_header: true
+custom_nav_footer: true
 reverse: false
